@@ -87,3 +87,21 @@
 - AWS Cost Explorer is a tool that provides a comprehensive view of your AWS cost and usage data.
 - It offers various cost visualization, filtering, and reporting capabilities to help you understand and analyze your AWS spending.
 - With Cost Explorer, you can gain insights into cost patterns, identify cost-saving opportunities, and forecast future expenses.
+
+<h3 align="center"> Compute </h3>
+
+**1. AWS Batch:**
+- AWS Batch is a fully managed service that enables you to run batch computing workloads on the AWS Cloud.
+- It automatically provisions and scales compute resources, making it easy to process large-scale, batch-oriented workloads.
+
+**2. Amazon EC2 (Elastic Compute Cloud):**
+- Amazon EC2 is a web service that provides resizable compute capacity in the cloud.
+- It allows you to launch and manage virtual servers (EC2 instances) with a wide range of instance types, operating systems, and configurations.
+
+**3. AWS Lambda:**
+- AWS Lambda is a serverless computing service that allows you to run code without provisioning or managing servers.
+- You can execute code in response to events, and you only pay for the compute time consumed.
+
+**4. AWS Serverless Application Model (AWS SAM):**
+- AWS SAM is an open-source framework for building serverless applications.
+- It simplifies the development of serverless applications by providing a template specification for defining serverless resources and their interactions.
