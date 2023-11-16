@@ -105,3 +105,17 @@
 **4. AWS Serverless Application Model (AWS SAM):**
 - AWS SAM is an open-source framework for building serverless applications.
 - It simplifies the development of serverless applications by providing a template specification for defining serverless resources and their interactions.
+
+<h3 align="center"> Containers </h3>
+
+**1. Amazon Elastic Container Registry (Amazon ECR):**
+- Amazon ECR is a fully managed container registry service that makes it easy to store, manage, and deploy Docker container images.
+- It integrates seamlessly with other AWS services, like Amazon ECS and Amazon EKS, and provides a secure and scalable container image storage solution.
+
+**2. Amazon Elastic Container Service (Amazon ECS):**
+- Amazon ECS is a fully managed container orchestration service that allows you to run and scale containerized applications.
+- It simplifies the deployment and management of containers on AWS, supporting both Fargate (serverless) and EC2 launch types.
+
+**3. Amazon Elastic Kubernetes Service (Amazon EKS):**
+- Amazon EKS is a managed Kubernetes service that simplifies the deployment and management of Kubernetes clusters.
+- It allows you to run containerized applications using Kubernetes, benefiting from the orchestration and scalability features of Kubernetes.
