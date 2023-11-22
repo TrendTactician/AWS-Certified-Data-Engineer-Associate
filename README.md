@@ -320,4 +320,4 @@
 
 **5. Amazon S3 Glacier:**
 - Amazon S3 Glacier is a storage service for data archiving and long-term backup at a lower cost.
-- It is designed for infrequently accessed data that needs to be stored securely and durably.
+- It is designed for infrequently accessed data that needs to be stored securely and durably
