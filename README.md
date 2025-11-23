@@ -2,7 +2,7 @@
 **Listed Services for AWS Certified Data Engineer - Associate is subject to change in future. This post published in Nov 2023. While studying for Exam go through official exam guide first that is available on official AWS Exam Page. Good Luck for the Exam !!**
 
 
-<h3 align="center"> Analytics </h3>
+## <h3 align="center"> Analytics </h3>
 
 **1. Amazon Athena:**
 - Amazon Athena is an interactive query service that allows you to analyze data in Amazon S3 using standard SQL.
@@ -48,7 +48,7 @@
 - Amazon QuickSight is a business intelligence and data visualization service.
 - It enables users to create interactive dashboards and reports to gain insights from their data.
 
-<h3 align="center"> Application Integration </h3>
+## <h3 align="center"> Application Integration </h3>
 
 
 **1. Amazon AppFlow:**
@@ -76,7 +76,7 @@
 - It simplifies the creation of state machines for managing workflows and applications.
 
 
-<h3 align="center"> Financial Management </h3>
+## <h3 align="center"> Financial Management </h3>
 
 **1. AWS Budgets:**
 - AWS Budgets is a service that helps you manage your AWS costs and usage by setting custom cost and usage budgets.
@@ -88,7 +88,7 @@
 - It offers various cost visualization, filtering, and reporting capabilities to help you understand and analyze your AWS spending.
 - With Cost Explorer, you can gain insights into cost patterns, identify cost-saving opportunities, and forecast future expenses.
 
-<h3 align="center"> Compute </h3>
+## <h3 align="center"> Compute </h3>
 
 **1. AWS Batch:**
 - AWS Batch is a fully managed service that enables you to run batch computing workloads on the AWS Cloud.
@@ -106,7 +106,7 @@
 - AWS SAM is an open-source framework for building serverless applications.
 - It simplifies the development of serverless applications by providing a template specification for defining serverless resources and their interactions.
 
-<h3 align="center"> Containers </h3>
+## <h3 align="center"> Containers </h3>
 
 **1. Amazon Elastic Container Registry (Amazon ECR):**
 - Amazon ECR is a fully managed container registry service that makes it easy to store, manage, and deploy Docker container images.
@@ -120,7 +120,7 @@
 - Amazon EKS is a managed Kubernetes service that simplifies the deployment and management of Kubernetes clusters.
 - It allows you to run containerized applications using Kubernetes, benefiting from the orchestration and scalability features of Kubernetes.
 
-<h3 align="center"> Database </h3>
+## <h3 align="center"> Database </h3>
 
 **1. Amazon DocumentDB (with MongoDB compatibility):**
 - Amazon DocumentDB is a fully managed, MongoDB-compatible database service.
@@ -150,7 +150,7 @@
 - Amazon Redshift is a fully managed data warehousing service designed for analytics and data warehousing workloads.
 - It allows you to run complex, high-performance queries on large datasets.
 
-<h3 align="center"> Developer Tools </h3>
+## <h3 align="center"> Developer Tools </h3>
 
 **1. AWS CLI (Command Line Interface):**
 - The AWS CLI is a command-line tool that provides a unified interface for interacting with various AWS services.
@@ -180,19 +180,19 @@
 - AWS CodePipeline is a continuous integration and continuous delivery (CI/CD) service that automates the building, testing, and deployment of applications.
 - It allows you to create and manage end-to-end software release workflows.
 
-<h3 align="center"> Frontend Web and Mobile </h3>
+## <h3 align="center"> Frontend Web and Mobile </h3>
 
 **1. Amazon API Gateway:**
 - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
 - It acts as a front-end for your backend services, enabling you to build and expose APIs to the internet or other services. It supports RESTful and WebSocket APIs.
 
-<h3 align="center"> Machine Learning </h3>
+## <h3 align="center"> Machine Learning </h3>
 
 **1. Amazon SageMaker:**
 - Amazon SageMaker is a fully managed service that simplifies the process of building, training, and deploying machine learning models.
 - It provides a complete set of tools and infrastructure for data scientists and developers to experiment with and deploy machine learning models at scale.
 
-<h3 align="center"> Management and Governance </h3>
+## <h3 align="center"> Management and Governance </h3>
 
 **1. AWS CloudFormation:**
 - AWS CloudFormation is an infrastructure-as-code service that allows you to define and provision AWS infrastructure and resources using templates.
@@ -226,7 +226,7 @@
 - The AWS Well-Architected Tool is a service that provides guidance and best practices for building and optimizing workloads in the cloud.
 - It helps organizations evaluate their architecture against the AWS Well-Architected Framework and provides recommendations for improvements.
 
-<h3 align="center"> Migration and Transfer </h3>
+## <h3 align="center"> Migration and Transfer </h3>
 
 **1. AWS Application Discovery Service:**
 - AWS Application Discovery Service helps organizations plan their migration to the cloud by discovering and assessing on-premises applications.
@@ -256,7 +256,7 @@
 - AWS Transfer Family includes AWS Transfer for SFTP (Secure File Transfer Protocol) and AWS Transfer for FTP (File Transfer Protocol).
 - These services allow you to set up fully managed SFTP and FTP servers in AWS to securely transfer files.
 
-<h3 align="center"> Networking and Content Delivery </h3>
+## <h3 align="center"> Networking and Content Delivery </h3>
 
 **1. Amazon CloudFront:**
 - Amazon CloudFront is a content delivery service that accelerates the distribution of web content to end-users globally.
@@ -274,7 +274,7 @@
 - Amazon VPC is a service that allows you to create isolated, virtualized networks in the AWS cloud.
 - It gives you control over network architecture, IP addressing, subnets, security groups, and routing to build secure and scalable infrastructure.
 
-<h3 align="center"> Security, Identity, and Compliance </h3>
+## <h3 align="center"> Security, Identity, and Compliance </h3>
 
 **1. AWS Identity and Access Management (IAM):**
 - AWS Identity and Access Management (IAM) is a service that allows you to control access to AWS resources securely.
@@ -300,7 +300,7 @@
 - AWS WAF is a web application firewall service that helps protect web applications from common web exploits and attacks.
 - It allows you to create rules to filter and monitor incoming traffic, enhancing the security of your web applications.
 
-<h3 align="center"> Storage </h3>
+## <h3 align="center"> Storage </h3>
 
 **1. AWS Backup:**
 - AWS Backup is a fully managed backup service that centralizes and automates the backup of your AWS resources, including Amazon EBS volumes, RDS databases, and more.
